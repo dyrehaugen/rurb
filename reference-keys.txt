@@ -47,3 +47,4 @@ news
 eco-smart-singapore
 doughnut-amsterdam
 attention-seeking-architecture
+sitelog
