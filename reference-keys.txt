@@ -38,6 +38,7 @@ cotonou
 china
 singapore
 housing
+san-francisco
 urban-research
 jane-jacobs
 regional-science
